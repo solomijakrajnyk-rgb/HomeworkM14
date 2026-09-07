@@ -1,4 +1,4 @@
-package model;
+package com.example.todolist.model;
 
 public class Note {
 
